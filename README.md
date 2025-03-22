@@ -1,1 +1,1 @@
-# Using Block-Based Distribution Technique in Least Significant Bit (LSB) steganography
+# Using Block-Based Distribution Technique in Least Significant Bit (LSB) Steganography
